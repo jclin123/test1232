@@ -7,8 +7,4 @@ public class test01 {
         System.out.println("dev2");
         saydev2();
     }
-
-    public static void saydev2(){
-        System.out.println("hello dev2");
-    }
 }
