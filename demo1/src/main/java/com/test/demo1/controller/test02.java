@@ -5,4 +5,7 @@ public class test02 {
         System.out.println(21);
         System.out.println(44);
     }
+    public static void hello(){
+        System.out.println("dev2");
+    }
 }
