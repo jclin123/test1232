@@ -1,10 +1,5 @@
 package com.test.demo1.controller;
 
-import com.sun.org.apache.bcel.internal.generic.DDIV;
-import com.sun.org.apache.xalan.internal.xsltc.trax.SAX2StAXStreamWriter;
-
-import java.util.prefs.BackingStoreException;
-
 public class test01 {
 
     public static void main(String[] args) {
