@@ -14,7 +14,7 @@ public class test01 {
         System.out.println("dev22");
         saydev2();
         System.out.println("dev22");
-        System.out.println("dev3");
+        System.out.println("dev33");
     }
 
     public static void saydev2(){
