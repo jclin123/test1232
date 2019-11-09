@@ -8,6 +8,6 @@ public class test02 {
         System.out.println("222");
         say();
     }
-       public static void hello(){   
+       public static void hello(){
      System.out.println("dev2");
 }
