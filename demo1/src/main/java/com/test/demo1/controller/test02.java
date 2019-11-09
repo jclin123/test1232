@@ -9,4 +9,7 @@ public class test02 {
     public static void say(){
         System.out.println("hello");
     }
+    public static void hello(){
+        System.out.println("dev2");
+    }
 }
