@@ -11,7 +11,9 @@ public class test01 {
         System.out.println(12);
         System.out.println("hha");
         System.out.println("dev2");
+        System.out.println("dev22");
         saydev2();
+        System.out.println("dev22");
     }
 
     public static void saydev2(){
