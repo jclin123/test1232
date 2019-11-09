@@ -5,6 +5,7 @@ public class test02 {
         System.out.println(21);
         System.out.println("dev22");
         System.out.println(44);
+        System.out.println("222");
         say();
     }
     public static void say(){
