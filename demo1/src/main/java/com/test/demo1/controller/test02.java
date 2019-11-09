@@ -7,9 +7,7 @@ public class test02 {
         System.out.println(44);
         System.out.println("222");
     }
-    public static void hello(){
-        System.out.println("dev2");
-    }
+
     public static void hello(){
         System.out.println("dev2");
     }
