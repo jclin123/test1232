@@ -8,10 +8,6 @@ public class test02 {
         System.out.println("222");
         say();
     }
-    public static void say(){
-        System.out.println("hello");
-    }
-    public static void hello(){
-        System.out.println("dev2");
-    }
+       public static void hello(){   
+     System.out.println("dev2");
 }
