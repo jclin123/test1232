@@ -8,4 +8,7 @@ public class test02 {
     public static void hello(){
         System.out.println("dev2");
     }
+    public static void hello(){
+        System.out.println("dev2");
+    }
 }
